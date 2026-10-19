@@ -1,0 +1,10 @@
+{
+  "description": "Crie um site pessoal profissional e responsivo para Yara Kailany, destacando suas habilidades como desenvolvedora Java e apresentando projetos e serviços.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
